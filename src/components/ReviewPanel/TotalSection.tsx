@@ -18,7 +18,7 @@ export function TotalSection({ total, savings }: Props) {
     <div className={styles.pricingSummary}>
       <img
         className={styles.satisfactionSeal}
-        src="/images/100%.png"
+        src="/images/100.png"
         alt="100% Wyze satisfaction guarantee"
       />
       <div className={styles.pricingArea}>
